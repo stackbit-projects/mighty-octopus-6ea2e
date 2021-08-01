@@ -1,4 +1,7 @@
-## Getting Started
+---
+{}
+---
+## Rick and Morty mindblow game
 
 The easiest way to start a new project is to use the Gatsby starter. It generates a ready-to-use project with all needed dependencies.
 
